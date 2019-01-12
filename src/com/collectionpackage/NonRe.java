@@ -19,7 +19,7 @@ public String getName() {
 public static void main(String[] args) {
 	final NonRe st = new NonRe("res");
 	System.out.println(st.getName());
-	st.setName("REshma");
+st.setName("REshma");
 	System.out.println(st.getName());
 	st.setName("abhi");
 	System.out.println(st.getName());
