@@ -11,8 +11,7 @@ public class ListDriver {
 		//System.out.println(list.get(0).toString());
 		for(Item i :list) {
 			System.out.println(i.toString());
-		}
-		
+		}	
 		
 	}
 }
